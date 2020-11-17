@@ -397,7 +397,8 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: #FFF;
+  background-color: #FFC83F;
 }
 
 #hero h2 {
@@ -526,6 +527,7 @@ h1, h2, h3, h4, h5, h6 {
 section {
   padding: 60px 0;
   overflow: hidden;
+  word-break: keep-all;
 }
 
 .section-bg {
